@@ -3,6 +3,10 @@
 ## Overview
 
 Welcome to the Movie Review Website project! This project is a web application that allows users to watch trailers of different movies and write reviews. The frontend is built using React.js with styling using Bootstrap and Tailwind CSS. The backend is powered by Java Spring Boot, and it utilizes a REST API to handle data storage and retrieval, saving reviews in a MongoDB database.
+![image](https://github.com/Vianypal/Movie-review-system/assets/89671983/b6f93a8c-b16f-4327-bf93-a73d01146dc9)
+![image](https://github.com/Vianypal/Movie-review-system/assets/89671983/1d60d345-52e3-4a36-971c-13d60e7d2190)
+
+
 
 ## Features
 
